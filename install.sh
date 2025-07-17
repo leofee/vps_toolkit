@@ -4,7 +4,7 @@
 INSTALL_DIR="/opt/vps_toolkit"
 MODULE_DIR="$INSTALL_DIR/modules"
 LOG_DIR="$INSTALL_DIR/logs"
-REPO="zeyu8023/vps_toolkit"
+REPO="leofee/vps_toolkit"
 
 echo "🧹 正在清理旧版本..."
 rm -rf "$INSTALL_DIR"
